@@ -4,9 +4,9 @@ appendCommitMessageToRunName: false
 
 resources:
   repositories:
-    - repository: MyFirstpipeline
+    - repository: prcheck
       type: github
-      name: 'kohithreddy/MyFirstpipeline'
+      name: 'kohithreddy/prcheck'
       endpoint: 'ReddyStuff'
       trigger: 
         branches:
