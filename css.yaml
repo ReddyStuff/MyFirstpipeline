@@ -49,7 +49,6 @@ stages:
             echo Actual Build Reason $(Build.Reason)                
             echo Actual Build Branch $(Build.SourceBranch)
 
-
   - job: ValidateAndPlanApiTerraformDevvUks
     dependsOn: []
 
