@@ -2,6 +2,7 @@ name: "$(Build.Reason)--$(Build.SourceBranch)--$(Rev:r)"
 
 appendCommitMessageToRunName: false
 
+
 resources:
   repositories:
     - repository: prcheck
