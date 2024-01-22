@@ -31,7 +31,6 @@ pr:
     - release/futcor-drop-1.2
     - release/futcor-drop-1.3
 
-
 pool:
   #name: aci-es-agents
   vmImage: 'Windows-latest'
