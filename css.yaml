@@ -24,6 +24,7 @@ trigger:
     - 'feature/futcor-drop-1.0-*'
     - 'feature/futcor-drop-1.2-*'
     - 'feature/futcor-drop-1.3-*'
+    - 'refs/heads/master'
 pr:
   branches:
     include:
